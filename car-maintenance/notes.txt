@@ -1,0 +1,7 @@
+- Dad had the idea to have an app that would let him track his car maintenance.
+
+- Could be used for multiple cars
+- Could send emails to user to alert them to upcoming maintenance
+- Have ability to add different things to track.
+- Include repair/price history?
+- User can choose how early they are emailed about the upcoming maintenance.
